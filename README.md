@@ -1,4 +1,4 @@
-# Machine Learning Algorithms Examples
+# Machine Learning Algorithms 
 
 This repository contains examples of various machine learning algorithms implemented using Scikit-Learn. Each section focuses on a different algorithm and dataset, demonstrating how to preprocess data, train models, make predictions, and evaluate results.
 
